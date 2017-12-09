@@ -4,7 +4,8 @@ This is a how to on building a tech startup and hacking it's growth.
 ## Table of Contents
 - Pre-build
   - Building Teams With Equity - Slicing the pie
-  - Proving The Idea - Test if your idea is a dud
+  - Key Tips For Ideas - Test if your idea is a dud
+  - Validate Your Idea - The lean startup, testing the market
   - Sizing Up Competition
 - Minimum Viable Product
   - Designs - Make your startup for humans, don't over complicate it
