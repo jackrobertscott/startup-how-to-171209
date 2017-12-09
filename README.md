@@ -8,6 +8,7 @@ This is a how to on building a tech startup and hacking it's growth.
   - Validate Your Idea - The lean startup, testing the market
   - Sizing Up Competition
   - Building vision - How to lead a team effectively
+  - Build Your Customer Base Before Launch - Effectively creating a community of people eager to use your app
 - Minimum Viable Product
   - Designs - Make your startup for humans, don't over complicate it
   - Features You Need - Implement only important features to improve speed to market and product fit
