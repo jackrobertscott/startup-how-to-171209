@@ -8,7 +8,7 @@ This is a how to on building a tech startup and hacking it's growth.
   - Sizing up the competition
 - Minimum Viable Product
   - Features You Need - Implement only important features to improve speed to market and product fit
-  - Working With Developers
+  - Working With Developers - Project management and keeping them happy
 - Growth
   - Iterating The Product - Analytics and feedback on users
   - Door-to-door - Make your first 100 love you
