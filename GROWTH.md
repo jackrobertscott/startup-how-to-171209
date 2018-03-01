@@ -84,3 +84,7 @@ Ideas that a startup can consider to grow their business.
 - Engage your users at the moment they most want you
   - Health Engine has partnered with health clinics so that as soon as a receptionist puts in your mobile number and name and sets you as "waiting for doctor", you recieve an SMS which lets you know you can "avoid the wait by booking on Health Engine"
 - Get insights into features people want by looking at compeditor forums
+
+## Articles
+
+- Interesting case studies for the big names: https://thenextweb.com/entrepreneur/2014/05/28/9-iconic-growth-hacks-tech-companies-used-pump-user-base/
