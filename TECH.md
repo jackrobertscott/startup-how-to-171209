@@ -1,4 +1,4 @@
-## Tech
+# Tech
 
 - Customer Aquisition
   - [Autopilot](https://autopilothq.com/) - Sales funnel
