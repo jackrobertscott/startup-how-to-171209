@@ -1,0 +1,44 @@
+# Growth
+
+Ideas that a startup can consider to grow their business.
+
+- If you need to, manually help setup early users
+  - The best business driver is word of mouth, so the early users are important
+  - They will help give key feedback on how to reduce the onboarding friction for you app
+  - Zapier did this when they were first starting
+- Post to reddit
+  - Be careful to not be "markety" as reddit users will down vote you
+  - Best to ask a frequent reddit user to post for you as they will have good "karma" and will get a larger exposure
+- Post to Product Hunt
+  - Make sure you include screenshots or a video to engage users
+  - Try using a gif for the main image
+  - Make sure you post at the *optimal* Product Hunt posting time as each day is reset
+- Post to Hacker News
+  - Similar to reddit, do not be "markety" or you'll be shut down
+  - Post to "Show HN:"
+  - E.g. "Show HN: Rumblum - Tool for automating document creation with data from other apps"
+- Get people to sell your product on commission
+  - Depending on your business model; you may be able to incentivise people to sell your product on commission
+  - Do not exploit people
+  - University stundents may be interested in this
+- Partner with businesses who have similar market audiences
+  - A business who sells dog leads may partner with a company who sells dog food
+  - A business who sells business software may partner with business coaches
+- Create a help centre
+  - Predict questions which users will ask and put those questions in a help centre
+  - Intercom has a good help centre feature which is easy to setup and use
+  - Direct users to help articles when they get stuck on a problem
+- Preload a user's profile with example data
+  - It is much easier for a user to get started with an app if they have an example
+  - The example can help spark ideas for the user on how they might use the app
+- Try some old school techniques
+  - Send out flyers to local businesses
+  - Go walk in to small business and have a chat
+  - Pay your customers in person with cheques - Airbnb founder story
+- Leverage other platform's audiences
+  - Airbnb listed all their properties on Craigslist and then redirected them to Airbnb to book
+  - Facebook marketplace
+  - Gumtree
+- Partner with content creators
+  - Get in contact with YouTubers who discuss topics in your field
+  - Get bloggers in your field to review and discuss your product - give them free access
