@@ -39,6 +39,8 @@ Ideas that a startup can consider to grow their business.
   - Please do not spam people, they will ignore spam anyway
   - Send personalised emails to people in your target audience
   - Find them on linked in or on help forums or in online communities
+- Go on Shark Tank
+  - Even if you do not accept the offers, the exposure is massive
 
 ## Leveraged Online Exposure
 
